@@ -1,0 +1,68 @@
+.searchBox{
+    position: relative;
+    transition: all .5s ease-in-out;
+}
+
+.searchBox input {
+    background-color: rgb(38, 32, 32);
+    padding: 10px;
+    width: 300px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    color:#fff;
+    font-size: 1.1rem;
+}
+
+.searchBox input:focus{
+    outline: none;
+}
+
+.searchBox select {
+    background-color: rgb(38, 32, 32);
+    padding: 10px;
+    width: 80px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    color:#fff;
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+.select-selected{
+    color: aqua;
+}
+
+.searchBox select:focus{
+    outline: none;
+}
+
+::-webkit-scrollbar{
+    width: 0;
+}
+.result{
+    position: absolute;
+    width: 300px;
+    max-height: 500px;
+    top:60px;
+    background-color: rgba(31, 30, 30, 0.697);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgb(105, 105, 96);
+    border-radius: 5px;
+    overflow-y:scroll ;
+}
+
+.result li {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 5px 10px;
+    gap:10px;
+    border-bottom: 2px solid  rgba(105, 105, 96, 0.229);
+}
+.result div {
+    margin:200px auto;
+    width: fit-content;
+
+}

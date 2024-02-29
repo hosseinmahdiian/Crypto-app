@@ -1,0 +1,12 @@
+.header  {
+    margin: 40px 0;
+}
+
+.footer{
+    width: 100%;
+    padding: 20px ;
+    text-align: center;
+    font-size: 1.2rem;
+    background-color: #3874ff;
+    border-radius: 10px;
+}
