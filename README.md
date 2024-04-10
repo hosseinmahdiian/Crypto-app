@@ -1,8 +1,6 @@
-# React + Vite
+used: React | Recharts | CoinGeko
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+View
+![Screenshot (73)](https://github.com/hosseinmahdiian/Crypto-app/assets/108767623/d2c04f2e-4be7-4237-82b9-1ba68a7fe7a0)
+![Screenshot (74)](https://github.com/hosseinmahdiian/Crypto-app/assets/108767623/4d75f106-b895-495a-8b90-6f6023435a67)
+![Screenshot (75)](https://github.com/hosseinmahdiian/Crypto-app/assets/108767623/f921e194-d835-4fac-9cc8-3f6b3db310fd)
