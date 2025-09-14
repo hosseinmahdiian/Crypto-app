@@ -2,7 +2,7 @@ import { useState } from "react";
 
 import styles from "./ChartModal.module.css"
 
-import { Convert } from "../../Services/convert";
+import { Convert } from "../../Services/Convert";
 import { ChartComponent } from "./ChartComponent"
 import { RxCross2 } from "react-icons/rx";
 
